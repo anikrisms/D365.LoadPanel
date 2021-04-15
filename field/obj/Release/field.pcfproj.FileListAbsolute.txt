@@ -1,0 +1,2 @@
+C:\anikris\loadPanel\field\obj\Release\field.pcfprojAssemblyReference.cache
+C:\anikris\loadPanel\field\obj\Release\field.pcfproj.CoreCompileInputs.cache

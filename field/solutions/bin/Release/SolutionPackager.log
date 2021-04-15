@@ -1,0 +1,19 @@
+2021-04-15 07:41:53.345 - Info	
+Packing C:\anikris\loadPanel\field\solutions\obj\Release\Metadata to bin\Release\solutions.zip
+
+2021-04-15 07:41:53.369 - Info	Processing Component: Entities
+2021-04-15 07:41:53.374 - Info	Processing Component: Roles
+2021-04-15 07:41:53.378 - Info	Processing Component: Workflows
+2021-04-15 07:41:53.378 - Info	Processing Component: FieldSecurityProfiles
+2021-04-15 07:41:53.378 - Info	Processing Component: Templates
+2021-04-15 07:41:53.379 - Info	Processing Component: EntityMaps
+2021-04-15 07:41:53.379 - Info	Processing Component: EntityRelationships
+2021-04-15 07:41:53.386 - Info	Processing Component: OrganizationSettings
+2021-04-15 07:41:53.387 - Info	Processing Component: optionsets
+2021-04-15 07:41:53.387 - Info	Processing Component: CustomControls
+2021-04-15 07:41:53.418 - Info	 - ApploadPanel.field
+2021-04-15 07:41:53.438 - Info	Processing Component: SolutionPluginAssemblies
+2021-04-15 07:41:53.439 - Info	Processing Component: EntityDataProviders
+2021-04-15 07:41:53.473 - Info	
+Managed Pack complete.
+
